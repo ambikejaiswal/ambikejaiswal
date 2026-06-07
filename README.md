@@ -1,8 +1,8 @@
-<h1 align="left">Hi , I'm Ambike Jaiswal👋</h1>
+<h1 align="center">Hi , I'm Ambike Jaiswal👋</h1>
 
 ###
 
-<p align="left">Aspiring Software Engineer (MERN Stack) | Data Analyst | Open to Work</p>
+<p align="center">Aspiring Software Engineer (MERN Stack) | Data Analyst | Open to Work</p>
 
 ###
 
