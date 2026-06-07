@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🚀 Actively seeking opportunities as a MERN Stack Developer.<br>🔭 I’m currently working on Full-Stack MERN applications and personal portfolio projects.<br>👯 I’m looking to collaborate on MERN Stack projects, Full-Stack Web Applications, and Open Source contributions.<br>💬 Ask me about React.js, JavaScript, Node.js, Express.js, MongoDB, Git, and Full-Stack Web Development.<br>📫 Reach me at: ambikejaiswal@gmail.com<br>👥 Looking for friends interested in Web Development and AI/ML.</p>
+<p align="left">🚀 Actively seeking opportunities as a MERN Stack Developer.<br>🔭 I’m currently working on Full-Stack MERN applications and personal portfolio projects.<br>👯 I’m looking to collaborate on Full-Stack Web Applications, and Open Source contributions.<br>💬 Ask me about React.js, JavaScript, Node.js, Express.js, MongoDB, Git, and Web Development.<br>📫 Reach me at: ambikejaiswal@gmail.com<br>👥 Looking for friends interested in Web Development and AI/ML.</p>
 
 ###
 
