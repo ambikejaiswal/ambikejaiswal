@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Aspiring Software Engineer (MERN Stack) | Data Analyst | Open to Work</p>
+<p align="center">Software Engineer (MERN Stack) | Data Analyst | Open to Work</p>
 
 ###
 
